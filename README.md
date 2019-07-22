@@ -4,6 +4,7 @@ simple application to get players from a json file,
 
 there are three rest function
 
+**for starting application, please run node start**
 ## get players
 
 Returns json data about a single list of players in the json Data.
@@ -57,7 +58,7 @@ Code: 200
 **error reponse**    
 > no player found      
 
-## get player by Id
+## delete player by Id
 
 Returns json data about a single list of players in the json Data.
 
