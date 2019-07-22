@@ -1,0 +1,35 @@
+{
+  "name": "api-restfull-players",
+  "version": "1.0.0",
+  "description": "Test application api using node js",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majditaleb/api-restfull-palyers.git"
+  },
+  "keywords": [
+    "api",
+    "node",
+    "api-server",
+    "express",
+    "starter",
+    "kit"
+  ],
+  "author": "Ettaleb Mejdi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majdi/api-restfull-palyers/bugs"
+  },
+  "homepage": "https://github.com/majditaleb/api-restfull-palyers#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
